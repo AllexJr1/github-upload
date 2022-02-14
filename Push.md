@@ -1,4 +1,4 @@
-#Push to GitLab
+# Push to GitLab
 - create project folder
 - cd to project folder
 - `git init`
